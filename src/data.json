@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Tabung Hampi",
+      "tours": [
+        {
+          "id": 1,
+          "name": "Tabung Beauty",
+          "duration": 5,
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "price": 465,
+          "image": "https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-balaji-srinivasan-3936815.jpg?raw=true"
+        },
+        {
+          "id": 2,
+          "name": "StoneHenge",
+          "duration": 8,
+          "rating": 3.5,
+          "numberOfReviews": 641,
+          "price": 385,
+          "image": "https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-bernd-feurich-2497299.jpg?raw=true"
+        },
+        {
+          "id": 3,
+          "name": "Beauty of the Mountains",
+          "duration": 2,
+          "rating": 4.5,
+          "numberOfReviews": 133,
+          "price": 144,
+          "image": "https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-chelsea-cook-2929906.jpg?raw=true"
+        },
+        {
+          "id": 4,
+          "name": "Pyramid 3",
+          "duration": 5,
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "price": 465,
+          "image": "https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-murat-%C5%9Fahin-3522880.jpg?raw=true"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Journey to the Past",
+      "tours": [
+        {
+          "id": 4,
+          "name": "Castle Beauty",
+          "duration": 5,
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "price": 465,
+          "image": "https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-phil-s-2416463.jpg?raw=true"
+        },
+        {
+          "id": 5,
+          "name": "Bauty of the Sphinx",
+          "duration": 5,
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "price": 465,
+          "image": "https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-suzy-hazelwood-5313569.jpg?raw=true"
+        },
+        {
+          "id": 6,
+          "name": "Snowy Clock",
+          "duration": 8,
+          "rating": 3.5,
+          "numberOfReviews": 641,
+          "price": 385,
+          "image": "https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-tino-schmidt-898579.jpg?raw=true"
+        },
+        {
+          "id": 7,
+          "name": "The Rice Terraces",
+          "duration": 2,
+          "rating": 4.5,
+          "numberOfReviews": 133,
+          "price": 144,
+          "image": "https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-rennon-kiefer-2412711.jpg?raw=true"
+        }
+      ]
+    }
+  ]
+  

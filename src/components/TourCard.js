@@ -7,7 +7,7 @@ import Rating from '@mui/material/Rating';
 import {createTheme, ThemeProvider} from "@mui/material/";
 
 const theme = createTheme({
-    component:{
+    components:{
         MuiTypography: {
             variants: [
                 {
@@ -15,6 +15,7 @@ const theme = createTheme({
                         variant: "body2",
                         style:{
                             fontSize: 11,
+                            
                         }
                     },
                     props: {
@@ -23,6 +24,7 @@ const theme = createTheme({
                     },
                     style:{
                         fontSize: 9,
+                        backgroundColor: "red",
                     }
                 }
             ]
